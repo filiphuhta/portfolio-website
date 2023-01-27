@@ -1,4 +1,4 @@
-# Simple React portfolio website template with Babel,FontAwesome ,Bootstrap , Scss and Webpack.
+# Simple React portfolio website template with Webpack.
 ![](https://github.com/filiphuhta/portfolio-website/blob/main/readme-files/portfolio-gif.gif)
 
 ## Getting Started
