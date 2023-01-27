@@ -1,0 +1,64 @@
+{
+  "projects":  [
+    {
+      "title": "Quizylo",
+      "description": "Quiz app with 20+ categories with constantly updated questions. More than 4000+ questions in the app. I made this app with React native.",
+      "linkTitle": "App Store",
+      "link": "https://apps.apple.com/se/app/quizylo/id1605487057",
+      "icon": "question-circle"
+    },
+    {
+      "title": "Minimal.task: to do list",
+      "description": "A minimalistic to do app. Handle your daily tasks easily without any unnecessary functionality. I made this app with React native.",
+      "linkTitle": "App Store",
+      "link": "https://apps.apple.com/app/id1645764552",
+      "icon": "tasks"
+    },
+    {
+      "title": "Bachelors thesis (Reactive systems : A solution for Wangiri fraud.)",
+      "description": "The purpose of the study is to identify problems with existing fraud prevention systems that deals with Wangiri fraud...",
+      "linkTitle": "Diva Page",
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1435711&dswid=3040",
+      "icon": "book"
+    },
+    {
+      "title": "Sitevision Functions (Npm package)",
+      "description": " An open source JavaScript package for handling standard JavaScript functions commonly used in Sitevision.",
+      "linkTitle": "Npm Package",
+      "link": "https://www.npmjs.com/package/@consid/sitevision-functions",
+      "icon": "box-open"
+    }
+    ,
+    {
+      "title": "Sitevision Component Library (Npm package)",
+      "description": "An open source Component library for handling standard React components commonly used in Sitevision.",
+      "linkTitle": "Npm Package",
+      "link": "https://www.npmjs.com/package/@consid/sitevision-component-library",
+      "icon": "box-open"
+    }
+    ,
+    {
+      "title": "Random dog image (Npm package)",
+      "description": "A react component that generates random images of dogs.",
+      "linkTitle": "Npm Package",
+      "link": "https://www.npmjs.com/package/random-dog-image",
+      "icon": "dog"
+    }
+    ,
+    {
+      "title": "My first React application",
+      "description": " I have used the introduction to React tutorial, to build an interactive tic-tac-toe game. Which I have styled with bootstrap.",
+      "linkTitle": "Source Code",
+      "link": "https://github.com/filiphuhta/my-first-react-app",
+      "icon": "gamepad"
+    }
+    ,
+    {
+      "title": "My Website",
+      "description": "This site was made by HTML, SaSS, Bootstrap & JavaScript",
+      "linkTitle": "",
+      "link": "",
+      "icon": "globe"
+    }
+  ]
+}
