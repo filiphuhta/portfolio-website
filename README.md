@@ -1,4 +1,5 @@
-# Simple React website template with Babel, Scss and Webpack.
+# Simple React portfolio website template with Babel, Scss and Webpack.
+![](https://github.com/filiphuhta/portfolio-websitef)
 
 ## Getting Started
 
@@ -7,7 +8,7 @@
 
 ## Available Scripts
 ### npm start
-Starts the application. It will from the beginning be a simple template where the starting files is described.
+Starts the portfolio website. 
 
 ### npm build 
 Build the application and create files ready to deploy in the dist folder.
