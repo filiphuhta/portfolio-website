@@ -55,9 +55,9 @@
     ,
     {
       "title": "My Website",
-      "description": "This site was made by HTML, SaSS, Bootstrap & JavaScript",
-      "linkTitle": "",
-      "link": "",
+      "description": "This site was made by React, SaSS, Bootstrap, JavaScript and Webpack.",
+      "linkTitle": "Source Code",
+      "link": "https://github.com/filiphuhta/portfolio-website",
       "icon": "globe"
     }
   ]

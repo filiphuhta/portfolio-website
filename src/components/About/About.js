@@ -16,15 +16,10 @@ const AboutSection = () => {
                     <div className="col-md-6 col-sm-12">
                         <div className="about-wrapper__info load-hidden">
                             <p className="about-wrapper__info-text">
-                                I'm a full stack developer from the northern part of Sweden who has ended up in Örebro. I have experience
-                                in the most commonly used web frameworks React, Angular & Vue.js. I have also experience with backend
-                                techniques like Java, C#, Node.js, and SQL. I have a bachelor's degree in systems sciences and I'm a
-                                certified Scrum Master.
+                                I'm a developer with experience in popular web frameworks such as React, Angular, and Vue.js. I am proficient in backend technologies like Java, C#, Node.js, and SQL. In addition, I hold a bachelor's degree in systems sciences and am certified as a Scrum Master.
                             </p>
                             <p className="about-wrapper__info-text">
-                                My spare time involves a lot of exercise, spending time with my family, and some downhill skiing in the
-                                winter. Currently working as a full stack developer. I am a passionate developer who likes to take on new
-                                technologies. I am most inspired when I tackle problems that are outside my comfort zone.
+                                In my free time, I enjoy staying active by exercising and spending time with my family, including some downhill skiing in the winter. As a developer, I constantly seek new challenges and technologies to learn and expand my skills. I am most motivated when faced with problems that push me out of my comfort zone.
                             </p>
                             <span className="d-flex mt-3">
                                 <a rel="noreferrer" target="_blank" className="cta-btn cta-btn--orange-fill"
