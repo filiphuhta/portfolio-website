@@ -1,5 +1,5 @@
 # Simple React portfolio website template with Babel, Scss and Webpack.
-![](https://github.com/filiphuhta/portfolio-websitef)
+![](https://github.com/filiphuhta/portfolio-website/blob/main/readme-files/portfolio-gif.gif)
 
 ## Getting Started
 
