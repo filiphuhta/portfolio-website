@@ -55,15 +55,19 @@ module.exports = {
       },
       meta: {
         'Content-Security-Policy': {
-          'base-uri': "'self'",
-          'default-src': "'self'",
-          'frame-src': "'none'",
-          'img-src': ["'self'", 'data:'],
-          'media-src': "'none'",
-          'object-src': "'none'",
-          'script-src': ["'self'"],
-          'font-src': ["'self'", "https://fonts.gstatic.com"],
-          'style-src': ["'self'", "https://fonts.googleapis.com"],
+          'http-equiv': 'Content-Security-Policy',
+          'content': `default-src 'self';
+          script-src 'self';
+          style-src 'self' https://*.fonts.googleapis.com;
+          object-src 'none';
+          base-uri 'self';
+          connect-src 'self';
+          font-src 'self' https://*.fonts.gstatic.com;
+          frame-src 'self';
+          img-src 'self';
+          manifest-src 'self';
+          media-src 'self';
+          worker-src 'none';`
         }
       }
     }),
