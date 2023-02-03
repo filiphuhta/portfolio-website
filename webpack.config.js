@@ -57,12 +57,12 @@ module.exports = {
         'Content-Security-Policy': {
           'http-equiv': 'Content-Security-Policy',
           'content': `default-src 'self';
-          script-src 'self';
-          style-src 'self' https://*.fonts.googleapis.com;
+          script-src 'self' 'unsafe-inline';
+          style-src 'self' https://fonts.googleapis.com 'unsafe-inline';
           object-src 'none';
           base-uri 'self';
           connect-src 'self';
-          font-src 'self' https://*.fonts.gstatic.com;
+          font-src 'self' https://fonts.gstatic.com;
           frame-src 'self';
           img-src 'self';
           manifest-src 'self';
